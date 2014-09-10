@@ -1,0 +1,13 @@
+{
+  "name": "parsimmon",
+  "homepage": "https://github.com/jneen/parsimmon",
+  "_release": "aaf0554b64",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "aaf0554b64651c4dd7904bdee57674d1ffb95e4c"
+  },
+  "_source": "https://github.com/jneen/parsimmon.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/jneen/parsimmon.git"
+}
